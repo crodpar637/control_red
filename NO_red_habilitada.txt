@@ -1,0 +1,2 @@
+Nombre para red habilitada: red_habilitada.txt
+Nombre para red deshabilitada: cualquier otro, por ejemplo, NO_red_habilitada.txt
